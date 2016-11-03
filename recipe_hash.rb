@@ -7,13 +7,10 @@
 #  - shredded cheddar cheese - 3 cups
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
-
-#2. Write a method that returns (not puts) your mac_and_cheese_ hash
-def recipe_ingredients(any_recipe)
-
-end
-
-puts recipe_ingredients(mac_and_cheese_recipe)
+mac_and_cheese_recipe = {
+  
+  
+  }
 
 
 #2: Write code that returns the amount of cheese from mac_and_cheese ingredients that is needed in the recipe.
